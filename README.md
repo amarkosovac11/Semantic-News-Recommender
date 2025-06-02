@@ -22,7 +22,6 @@ This project demonstrates the power of combining modern NLP techniques and vecto
 - **SentenceTransformers** — For generating semantic embeddings from text
 - **Pinecone** — Cloud-native vector database for efficient similarity search
 - **Streamlit** — Web framework for building the interactive user interface
-- **Pandas** — Data handling and preprocessing
 - **NumPy** — Numerical operations on embeddings
 
 ---
