@@ -10,6 +10,12 @@ This project demonstrates the power of combining modern NLP techniques and vecto
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/1c3e1ec6-aa79-4916-9aac-971dfae0d922)
+
+
+---
+
 ## Technologies Used
 
 - **Python** — Primary programming language
